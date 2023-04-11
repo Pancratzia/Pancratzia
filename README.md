@@ -1,7 +1,7 @@
-# Laura Ortega - Desarrolladora FullStack :tw-1f4bb:
+# Laura Ortega - Desarrolladora FullStack :computer:
 
 ## Sobre Mí
-- Estudiante de Ingeniería en Telemática :tw-1f393:
+- Estudiante de Ingeniería en Telemática :mortar_board:
 - Soy una persona apasionada por la **programación** y la **resolución de problemas**. Me encanta **investigar y encontrar respuestas a preguntas complejas**, y la programación me permite hacer precisamente eso.
 
 ## Redes Sociales
@@ -12,16 +12,16 @@
 
 # Comandos & Alias
 ### Comandos
-| COMANDOS |  DESCRIPCIÓN                                                               |
-| :------------:   | :------------:                                                                   |
-|  ls                   | Lista los archivos y directorios en el directorio actual  |
-|  cd                 |  Cambia de directorio                                                    |
-| pwd               | Muestra el directorio de trabajo actual                         |
-|  cp                 | Copia archivos o directorios                                          |
-|  rm                |  Elimina archivos o directorios                                       |
+| COMANDOS         |  DESCRIPCIÓN                                                          |
+| :------------:   | :------------:                                                        |
+|  ls              | Lista los archivos y directorios en el directorio actual              |
+|  cd              |  Cambia de directorio                                                 |
+| pwd              | Muestra el directorio de trabajo actual                               |
+|  cp              | Copia archivos o directorios                                          |
+|  rm              |  Elimina archivos o directorios                                       |
 
 ### Alias
-| ALIAS               |  DESCRIPCIÓN                                                                                         |
-| :------------:     | :------------:                                                                                              |
-|alias ll="ls -alh"|Muestra el contenido de un directorio de manera detallada y ordenada|
-|alias cls="clear"|Limpia la Pantalla de la Terminal                                                               |
+| ALIAS               |  DESCRIPCIÓN                                                       |
+| :------------:      | :------------:                                                     |
+|alias ll="ls -alh"   |Muestra el contenido de un directorio de manera detallada y ordenada|
+|alias cls="clear"    |Limpia la Pantalla de la Terminal                                   |
