@@ -16,7 +16,7 @@
 | :------------:   | :------------:                                                        |
 |  ls              | Lista los archivos y directorios en el directorio actual              |
 |  cd              |  Cambia de directorio                                                 |
-| pwd              | Muestra el directorio de trabajo actual                               |
+| grep             | Buscar una cadena de texto en un archivo o salida de otro comando     |
 |  cp              | Copia archivos o directorios                                          |
 |  rm              |  Elimina archivos o directorios                                       |
 
