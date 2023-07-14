@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.tenor.com/OM9TmDtl0akAAAAC/krone-crown.gif" width="40"> Hi! I'm <del>Pancratzia</del> Laura Ortega <img src="https://media.tenor.com/OM9TmDtl0akAAAAC/krone-crown.gif" width="40">
 </h1>
 
-<p align="center">I'm a Telecommunications Engineering student 🎓 who's passionate about programming and problem-solving. I love researching and finding answers to complex questions.</p>
+<p align="center">I'm a Telematics Engineering student 🎓 who's passionate about programming and problem-solving. I love researching and finding answers to complex questions.</p>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
@@ -34,7 +34,7 @@
  <br />
  <p align="center">
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pancratzia&show_icons=true&locale=en&layout=compact" alt="pancratzia" /></a>
-  <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pancratzia&show_icons=true&locale=en" alt="pancratzia" /></a>
+  <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pancratzia&show_icons=true&locale=en" alt="pancratzia" /></a>
  </p>
 </details>
 
@@ -43,26 +43,10 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=pancratzia&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
-
-
-<details>
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> MSI Bravo 15 (AMD RYZEN 5)</li>
-  	   <li><b>Browser: </b> Firefox Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
-	    <br />
-	</ul>
-</details>
-
-
 
 <br>
 
