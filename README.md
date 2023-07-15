@@ -3,7 +3,7 @@
 
 <p align="center">I'm a Telematics Engineering student 🎓 who's passionate about programming and problem-solving. I love researching and finding answers to complex questions.</p>
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif">
 
 
 - 🔭 I’m currently working on [creating a React and NodeJs Blog](https://github.com/Pancratzia/React-And-NodeJs-Blog)
