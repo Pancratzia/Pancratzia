@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working as [Scrum Master in an University Project called Rocket.net](https://github.com/Pancratzia/Rocket.net) & in a Group Project called [AR Store Sunglasses](https://github.com/Pancratzia/AR-Store-Sunglasses) for Undefined Academy & creating an [Admin Dashboard](https://github.com/Pancratzia/Admin-Dashboard)
-- 🌱 I’m currently learning **React.JS, NodeJS and Spring**
+- 🌱 I’m currently learning **TypeScript, React.JS, NodeJS and Spring**
 
 
 
