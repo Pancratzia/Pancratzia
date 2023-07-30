@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif">
 
 
-- 🔭 I’m currently working on [creating a React and NodeJs Blog](https://github.com/Pancratzia/React-And-NodeJs-Blog)
+- 🔭 I’m currently working as [Scrum Master in an University Project called Rocket.net](https://github.com/Pancratzia/Rocket.net)
 - 🌱 I’m currently learning **React.JS, NodeJS and Spring**
 
 
