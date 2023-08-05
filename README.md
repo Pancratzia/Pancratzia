@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif">
 
 
-- 🔭 I’m currently working as [Scrum Master in an University Project called Rocket.net](https://github.com/Pancratzia/Rocket.net) & in a Group Project called [AR Store Sunglasses](https://github.com/Pancratzia/AR-Store-Sunglasses) for Undefined Academy & creating an [Admin Dashboard](https://github.com/Pancratzia/Admin-Dashboard)
+- 🔭 I’m currently working as [Scrum Master in an University Project called Rocket.net](https://github.com/Pancratzia/Rocket.net) & creating an [Admin Dashboard](https://github.com/Pancratzia/Admin-Dashboard)
 - 🌱 I’m currently learning **TypeScript, React.JS, NodeJS and Spring**
 
 
