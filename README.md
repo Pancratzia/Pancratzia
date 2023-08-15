@@ -29,6 +29,13 @@
 
 ## **Github Stats:**
 
+<div align=center>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pancratzia)](https://git.io/streak-stats)
+  
+</div>
+
+
 <details>
   <summary>📊 <b>Github Stats</b></summary>
  <br />
