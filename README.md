@@ -31,7 +31,7 @@
 
 <div align=center>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pancratzia)](https://git.io/streak-stats)
+![Pancratzia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pancratzia&theme=jolly&hide_border=true)
   
 </div>
 
@@ -39,22 +39,25 @@
 <details>
   <summary>📊 <b>Github Stats</b></summary>
  <br />
- <p align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pancratzia&show_icons=true&locale=en&layout=compact" alt="pancratzia" /></a>
-  <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pancratzia&show_icons=true&locale=en" alt="pancratzia" /></a>
- </p>
+ <div align="center">
+   
+  ![Pancratzia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pancratzia&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+   
+  ![Pancratzia's Stats](https://github-readme-stats.vercel.app/api?username=Pancratzia&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+  
+ </div>
 </details>
 
 <details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=pancratzia&column=8&theme=darkhub"/>
-  </a>
- </p>
+ <div align="center">
+   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pancratzia&row=2&column=3&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  
+ </div>
 </details>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pancratzia&label=Profile%20views&color=0e75b6&style=flat" alt="pancratzia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pancratzia&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="pancratzia" /> </p>
