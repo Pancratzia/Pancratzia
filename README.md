@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif">
 
 
-- 🔭 I’m currently working as Scrum Master in an University Project called [Rocket.net](https://github.com/Pancratzia/Rocket.net) and doing daily [Frontend Mini Challenges](https://github.com/Pancratzia/frontend-mini-challenges) with React and other technologies.
+- 🔭 I’m currently learning about [Web Development](https://github.com/Pancratzia/Web-Development-Repository) and doing daily [Frontend Mini Challenges](https://github.com/Pancratzia/frontend-mini-challenges) with React and other technologies.
 - 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, NodeJS and Spring**
 
 
