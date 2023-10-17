@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently learning about [Web Development](https://github.com/Pancratzia/Web-Development-Repository) with PHP as Backend Language and doing daily [Frontend Mini Challenges](https://github.com/Pancratzia/frontend-mini-challenges) with React and other technologies.
-- 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, NodeJS and Spring**
+- 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, NodeJS and PHP**
 
 
 
