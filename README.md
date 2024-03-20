@@ -6,8 +6,8 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif">
 
 
-- 🔭 I’m currently learning [React & SpringBoot](https://github.com/Pancratzia/SpringBoot-React-Repository) and doing [Weekly Programming Challenges](https://github.com/Pancratzia/retos-programacion-2024) with JavaScript and [Monthly Projects](https://github.com/Pancratzia/Monthly-Projects) as well.
-- 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS & NodeJS**
+- 🔭 I’m currently learning [VueJS](https://github.com/Pancratzia/Vue-Projects) and doing [Weekly Programming Challenges](https://github.com/Pancratzia/retos-programacion-2024) with JavaScript and [Monthly Projects](https://github.com/Pancratzia/Monthly-Projects) as well.
+- 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, VueJS & NodeJS**
 
 
 
