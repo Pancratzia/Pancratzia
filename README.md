@@ -7,6 +7,7 @@
 
 
 - 🔭 I’m currently learning [VueJS](https://github.com/Pancratzia/Vue-Projects) and doing [Weekly Programming Challenges](https://github.com/Pancratzia/retos-programacion-2024) with JavaScript and [Monthly Projects](https://github.com/Pancratzia/Monthly-Projects) as well.
+- 😅 Always reviewing my [Portfolio](https://github.com/Pancratzia/Portfolio).
 - 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, VueJS & NodeJS**
 
 
