@@ -32,7 +32,9 @@
 
 <div align=center>
 
-![Pancratzia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pancratzia&theme=jolly&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pancratzia&theme=jolly&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pancratzia&theme=jolly&hide_border=true&border_radius=10)](https://git.io/streak-stats)
   
 </div>
 
@@ -41,8 +43,6 @@
   <summary>📊 <b>Github Stats</b></summary>
  <br />
  <div align="center">
-   
-  ![Pancratzia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pancratzia&theme=jolly&show_icons=true&hide_border=false&layout=compact)
    
   ![Pancratzia's Stats](https://github-readme-stats.vercel.app/api?username=Pancratzia&theme=jolly&show_icons=true&hide_border=false&count_private=true)
   
