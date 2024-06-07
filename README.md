@@ -33,7 +33,7 @@
 <div align=center>
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pancratzia&theme=jolly&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=45%2C230078%2C56005A&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pancratzia&theme=jolly&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=45%2C230078%2C56005A)
 
   
 </div>
